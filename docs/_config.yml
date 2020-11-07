@@ -6,9 +6,9 @@ description: >
 lang: en-US
 
 # en prod :
-baseurl: "" # the subpath of your site
-url: "https://weaverbird.toucantoco.com" # the base hostname & protocol for your site
-git_address: https://github.com/ToucanToco/weaverbird
+baseurl: "/weaverbird-docs-test" # the subpath of your site
+url: "http://david.nowinsky.net" # the base hostname & protocol for your site
+git_address: https://github.com/davinov/weaverbird-docs-test
 
 # theme options from https://bootswatch.com/
 # comment out this to use default Bootstrap
