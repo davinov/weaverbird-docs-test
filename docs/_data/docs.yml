@@ -1,0 +1,52 @@
+- title: User interface
+  docs:
+    - general-principles
+    - text
+    - totals
+    - aggregate
+    - append
+    - argmax
+    - argmin
+    - concatenate
+    - convert
+    - fromdate
+    - todate
+    - cumsum
+    - custom
+    - delete
+    - duplicate
+    - evolution
+    - dateextract
+    - substring
+    - fillna
+    - filter
+    - formula
+    - uniquegroups
+    - rollup
+    - ifthenelse
+    - join
+    - select
+    - percentage
+    - pivot
+    - rank
+    - rename
+    - replace
+    - sort
+    - split
+    - statistics
+    - lowercase
+    - uppercase
+    - top
+    - unpivot
+    - waterfall
+
+- title: Technical documentation
+  docs:
+    - index
+    - steps
+    - new-step
+    - known-limitations
+    - translators
+    - variables
+    - ui-components
+    - code-editor
